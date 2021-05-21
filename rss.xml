@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Denis Kuznetsov]]></title><description><![CDATA[Как стать тем, кем хочется быть]]></description><link>https://gatsbyglass.netlify.app</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 21 May 2021 22:14:25 GMT</lastBuildDate><item><title><![CDATA[About Me]]></title><description><![CDATA[Привет, я Денис 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Denis Kuznetsov]]></title><description><![CDATA[Как стать тем, кем хочется быть]]></description><link>https://gatsbyglass.netlify.app</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 21 May 2021 22:22:05 GMT</lastBuildDate><item><title><![CDATA[About Me]]></title><description><![CDATA[Привет, я Денис 
 Канал в телеграме.]]></description><link>https://gatsbyglass.netlify.app/about/</link><guid isPermaLink="false">https://gatsbyglass.netlify.app/about/</guid><content:encoded>&lt;h1&gt;Привет, я Денис&lt;/h1&gt;
 &lt;p&gt;&lt;br&gt;&lt;br&gt;
 &lt;a href=&quot;https://t.me/onmondays&quot;&gt;Канал в телеграме&lt;/a&gt;.
@@ -38,7 +38,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/gatsby-starter-glass/static/faec8994d1e960dab3a94f9ead1e62f4/7f09e/two_faces.jpg&quot;
+    href=&quot;/static/faec8994d1e960dab3a94f9ead1e62f4/7f09e/two_faces.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -51,12 +51,12 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;two faces&quot;
         title=&quot;two faces&quot;
-        src=&quot;/gatsby-starter-glass/static/faec8994d1e960dab3a94f9ead1e62f4/828fb/two_faces.jpg&quot;
-        srcset=&quot;/gatsby-starter-glass/static/faec8994d1e960dab3a94f9ead1e62f4/ff44c/two_faces.jpg 158w,
-/gatsby-starter-glass/static/faec8994d1e960dab3a94f9ead1e62f4/a6688/two_faces.jpg 315w,
-/gatsby-starter-glass/static/faec8994d1e960dab3a94f9ead1e62f4/828fb/two_faces.jpg 630w,
-/gatsby-starter-glass/static/faec8994d1e960dab3a94f9ead1e62f4/0ede0/two_faces.jpg 945w,
-/gatsby-starter-glass/static/faec8994d1e960dab3a94f9ead1e62f4/7f09e/two_faces.jpg 1156w&quot;
+        src=&quot;/static/faec8994d1e960dab3a94f9ead1e62f4/828fb/two_faces.jpg&quot;
+        srcset=&quot;/static/faec8994d1e960dab3a94f9ead1e62f4/ff44c/two_faces.jpg 158w,
+/static/faec8994d1e960dab3a94f9ead1e62f4/a6688/two_faces.jpg 315w,
+/static/faec8994d1e960dab3a94f9ead1e62f4/828fb/two_faces.jpg 630w,
+/static/faec8994d1e960dab3a94f9ead1e62f4/0ede0/two_faces.jpg 945w,
+/static/faec8994d1e960dab3a94f9ead1e62f4/7f09e/two_faces.jpg 1156w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -143,7 +143,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/gatsby-starter-glass/static/8177f4dad275223a31ffed39d49395f9/eea4a/goals_vs_systems.jpg&quot;
+    href=&quot;/static/8177f4dad275223a31ffed39d49395f9/eea4a/goals_vs_systems.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -156,13 +156,13 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;goals vs systems&quot;
         title=&quot;goals vs systems&quot;
-        src=&quot;/gatsby-starter-glass/static/8177f4dad275223a31ffed39d49395f9/828fb/goals_vs_systems.jpg&quot;
-        srcset=&quot;/gatsby-starter-glass/static/8177f4dad275223a31ffed39d49395f9/ff44c/goals_vs_systems.jpg 158w,
-/gatsby-starter-glass/static/8177f4dad275223a31ffed39d49395f9/a6688/goals_vs_systems.jpg 315w,
-/gatsby-starter-glass/static/8177f4dad275223a31ffed39d49395f9/828fb/goals_vs_systems.jpg 630w,
-/gatsby-starter-glass/static/8177f4dad275223a31ffed39d49395f9/0ede0/goals_vs_systems.jpg 945w,
-/gatsby-starter-glass/static/8177f4dad275223a31ffed39d49395f9/3ac88/goals_vs_systems.jpg 1260w,
-/gatsby-starter-glass/static/8177f4dad275223a31ffed39d49395f9/eea4a/goals_vs_systems.jpg 1280w&quot;
+        src=&quot;/static/8177f4dad275223a31ffed39d49395f9/828fb/goals_vs_systems.jpg&quot;
+        srcset=&quot;/static/8177f4dad275223a31ffed39d49395f9/ff44c/goals_vs_systems.jpg 158w,
+/static/8177f4dad275223a31ffed39d49395f9/a6688/goals_vs_systems.jpg 315w,
+/static/8177f4dad275223a31ffed39d49395f9/828fb/goals_vs_systems.jpg 630w,
+/static/8177f4dad275223a31ffed39d49395f9/0ede0/goals_vs_systems.jpg 945w,
+/static/8177f4dad275223a31ffed39d49395f9/3ac88/goals_vs_systems.jpg 1260w,
+/static/8177f4dad275223a31ffed39d49395f9/eea4a/goals_vs_systems.jpg 1280w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -192,7 +192,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/gatsby-starter-glass/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
+    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -205,13 +205,13 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Rocket launch&quot;
         title=&quot;Rocket launch&quot;
-        src=&quot;/gatsby-starter-glass/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/gatsby-starter-glass/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/gatsby-starter-glass/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/gatsby-starter-glass/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/gatsby-starter-glass/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/gatsby-starter-glass/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/gatsby-starter-glass/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
+        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
+        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
+/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
+/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
+/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
+/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
+/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
