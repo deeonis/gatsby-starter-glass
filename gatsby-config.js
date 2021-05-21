@@ -167,7 +167,7 @@ module.exports = {
     resolve: `gatsby-plugin-yandex-metrika`,
     options: {
       // The ID of yandex metrika.
-      trackingId: 12345,
+      trackingId: 79337188,
       // Enabled a webvisor. The default value is `false`.
       webvisor: true,
       // Enables tracking a hash in URL. The default value is `false`.
