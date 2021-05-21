@@ -1,5 +1,5 @@
 module.exports = {
-//pathPrefix: '/gatsby-starter-glass',
+pathPrefix: '/gatsby-starter-glass',
 
   siteMetadata: {
     title: `Denis Kuznetsov`,
@@ -10,7 +10,7 @@ module.exports = {
     description: `Как стать тем, кем хочется быть`,
     siteUrl: `https://gatsbyglass.netlify.app`,
     social: {
-      twitter: `yinkakun`,
+      twitter: `dee0nis`,
     },
     socialLinks: [
       {
