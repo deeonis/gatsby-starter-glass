@@ -1,4 +1,6 @@
 module.exports = {
+  pathPrefix: '/gatsby-starter-glass',
+
   siteMetadata: {
     title: `Denis Kuznetsov`,
     author: {
