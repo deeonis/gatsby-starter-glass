@@ -162,6 +162,14 @@ module.exports = {
         icon: `src/images/icon.png`,
       },
     },
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        host: 'https://deeonis.ru',
+        sitemap: 'https://deeonis.ru/sitemap.xml',
+        policy: [{ userAgent: '*', allow: '/' }]
+      }
+    },
     `gatsby-plugin-react-helmet`,
       {
     resolve: `gatsby-plugin-yandex-metrika`,
