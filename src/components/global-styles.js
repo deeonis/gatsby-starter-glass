@@ -104,6 +104,10 @@ ul {
   font-size: var(--size-400);
 }
 
+<ol> {
+  font-size: var(--size-400);
+}
+
 body {
   font-family: 'Poppins', -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue,
     helvetica, Ubuntu, roboto, noto, segoe ui, arial, sans-serif;
