@@ -28,14 +28,14 @@ const PostTemplate = ({ data }) => {
         <PostPagination>
           {prev && (
             <div>
-              <span>previous</span>
+              <span>назад</span>
               <Link to={prev.fields.slug}> {prev.frontmatter.title}</Link>
             </div>
           )}
 
           {next && (
             <div>
-              <span>next</span>
+              <span>дальше</span>
               <Link to={next.fields.slug}> {next.frontmatter.title}</Link>
             </div>
           )}
