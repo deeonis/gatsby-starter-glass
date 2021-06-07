@@ -104,11 +104,11 @@ ul {
   font-size: var(--size-400);
 }
 
-<ol> {
+ol {
   font-size: var(--size-400);
 }
 
-<li> {
+li {
   font-size: var(--size-400);
 }
 
