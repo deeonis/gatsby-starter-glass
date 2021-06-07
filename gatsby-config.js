@@ -1,5 +1,7 @@
+const path = require('path');
+
 module.exports = {
-//pathPrefix: '/gatsby-starter-glass',
+  //pathPrefix: '/gatsby-starter-glass',
 
   siteMetadata: {
     title: `Denis Kuznetsov`,
@@ -57,6 +59,20 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
+          {
+            resolve: 'gatsby-remark-opengraph',
+            options: {
+              background: '#eecccc',
+              // if you create post-specific open graph images, be sure to prefix `./public`
+              outputPath: markdownNode => path.join('./public', markdownNode.fields.slug),
+              texts: [
+                {
+                  text: markdownNode => markdownNode.frontmatter.title,
+                  font: require.resolve('./src/assets/arial.ttf')
+                }
+              ]
+            },
+          },
           {
             resolve: `gatsby-remark-relative-images`,
             options: {
@@ -171,22 +187,22 @@ module.exports = {
       }
     },
     `gatsby-plugin-react-helmet`,
-      {
-    resolve: `gatsby-plugin-yandex-metrika`,
-    options: {
-      // The ID of yandex metrika.
-      trackingId: 79337188,
-      // Enabled a webvisor. The default value is `false`.
-      webvisor: true,
-      // Enables tracking a hash in URL. The default value is `false`.
-      trackHash: true,
-      // Defines where to place the tracking script - `false` means before body (slower loading, more hits)
-      // and `true` means after the body (faster loading, less hits). The default value is `false`.
-      afterBody: true,
-      // Use `defer` attribute of metrika script. If set to `false` - script will be loaded with `async` attribute.
-      // Async enables earlier loading of the metrika but it can negatively affect page loading speed. The default value is `false`.
-      defer: false,
+    {
+      resolve: `gatsby-plugin-yandex-metrika`,
+      options: {
+        // The ID of yandex metrika.
+        trackingId: 79337188,
+        // Enabled a webvisor. The default value is `false`.
+        webvisor: true,
+        // Enables tracking a hash in URL. The default value is `false`.
+        trackHash: true,
+        // Defines where to place the tracking script - `false` means before body (slower loading, more hits)
+        // and `true` means after the body (faster loading, less hits). The default value is `false`.
+        afterBody: true,
+        // Use `defer` attribute of metrika script. If set to `false` - script will be loaded with `async` attribute.
+        // Async enables earlier loading of the metrika but it can negatively affect page loading speed. The default value is `false`.
+        defer: false,
+      },
     },
-  },
   ],
 };
