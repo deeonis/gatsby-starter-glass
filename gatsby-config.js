@@ -67,6 +67,8 @@ module.exports = {
               outputPath: markdownNode => path.join('./public', markdownNode.fields.slug),
               texts: [
                 {
+                  x: 10,
+                  y: 10,
                   text: markdownNode => markdownNode.frontmatter.title,
                   font: require.resolve('./src/assets/arial.ttf')
                 }
