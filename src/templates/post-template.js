@@ -5,7 +5,7 @@ import styled from 'styled-components';
 import Tags from '../components/tags';
 
 const PostTemplate = ({ data }) => {
-  const { frontmatter, excerpt, html } = data.markdownRemark;
+  const { frontmatter, excerpt, html, fields } = data.markdownRemark;
   const prev = data.prev;
   const next = data.next;
 
@@ -14,7 +14,7 @@ const PostTemplate = ({ data }) => {
       title={frontmatter.title}
       description={frontmatter.description || excerpt}
       socialImage={
-        frontmatter.social_image ? frontmatter.social_image.absolutePath : ''
+        frontmatter.social_image ? frontmatter.social_image.absolutePath :  fields.slug + 'og-image.jpg'
       }
     >
       <PostWrapper>
@@ -161,7 +161,7 @@ const PostPagination = styled.nav`
     color: inherit;
     text-decoration: none;
     font-size: var(--size-400);
-    
+
   }
 
   & a::after {
@@ -177,6 +177,9 @@ const PostPagination = styled.nav`
 export const pageQuery = graphql`
   query PostBySlug($slug: String!, $prevSlug: String, $nextSlug: String) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
+      fields {
+        slug
+      }
       excerpt(pruneLength: 160)
       html
       frontmatter {
