@@ -10,7 +10,7 @@ module.exports = {
       summary: `Как стать тем, кем хочется быть.`,
     },
     description: `Как стать тем, кем хочется быть`,
-    siteUrl: `https://gatsbyglass.netlify.app`,
+    siteUrl: `https://deeonis.ru/`,
     social: {
       twitter: `dee0nis`,
     },
@@ -30,6 +30,7 @@ module.exports = {
     ],
   },
   plugins: [
+    `gatsby-plugin-sitemap`,
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-image`,
     `gatsby-transformer-sharp`,
