@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://deeonis.ru/sitemap.xml
+Sitemap: https://deeonis.ru/sitemap/sitemap-0.xml
 Host: https://deeonis.ru
