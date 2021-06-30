@@ -185,7 +185,7 @@ module.exports = {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
         host: 'https://deeonis.ru',
-        sitemap: 'https://deeonis.ru/sitemap.xml',
+        sitemap: 'https://deeonis.ru/sitemap/sitemap-0.xml',
         policy: [{ userAgent: '*', allow: '/' }]
       }
     },
