@@ -94,7 +94,7 @@ const ContactForm = () => {
             )}
             {netlify.error && (
               <FormErrorFeedback>
-                Something went wrong, please try again.
+                Что-то не сработало. Попробуйте еще раз.
               </FormErrorFeedback>
             )}
           </FormFeedbackWrapper>
