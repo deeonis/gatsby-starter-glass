@@ -32,6 +32,10 @@ const Header = () => {
           <HeaderNavListItem>
             <Link to="/about">Обо мне</Link>
           </HeaderNavListItem>
+
+          <HeaderNavListItem>
+            <Link to="https://www.notion.so/deeonis/Books-I-have-read-ea8b6085c54942db8daca01789af1379">Книги</Link>
+          </HeaderNavListItem>
         </HeaderNavList>
       </HeaderWrapper>
     </StyledHeader>
