@@ -33,7 +33,8 @@ description: «Начало бесконечности» Дэвида Дойча
 
 Биологическая эволюция, в рамках которой простейшие организмы умудрились как-то преобразоваться в сложные, была лишь вступлением к основному повествованию эволюции — неограниченной эволюции мемов. <br><br>
 
-> Если вам интересно такое — рекомендую читать [Начало бесконечности](https://www.ozon.ru/product/nachalo-beskonechnosti-obyasneniya-kotorye-menyayut-mir-doych-devid-226982102/?asb=tz6%252FRgzijau19v%252Fas3RcGJ%252BRxqSSt8AT8%252BBbkSj3zAs%253D&asb2=NtqKmJ30oVBGNbC_qNtMwRBGjZgaa_Mpt0Ug9rkjSZI&keywords=начало+бесконечности), несмотря на довольно сложный язык. Ставлю ей 5 баллов из 5.<br><br>
+> Если вам интересно такое — рекомендую читать [Начало бесконечности](https://www.ozon.ru/product/nachalo-beskonechnosti-obyasneniya-kotorye-menyayut-mir-doych-devid-226982102/?asb=tz6%252FRgzijau19v%252Fas3RcGJ%252BRxqSSt8AT8%252BBbkSj3zAs%253D&asb2=NtqKmJ30oVBGNbC_qNtMwRBGjZgaa_Mpt0Ug9rkjSZI&keywords=начало+бесконечности), несмотря на довольно сложный язык. Ставлю ей 5 баллов из 5.
+<br><br>
 
 Ну и чтобы составить впечатление кто такой Дэвид Дойч, можно посмотреть его видео на TED (он крутой).<br><br>
 
