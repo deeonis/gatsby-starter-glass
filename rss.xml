@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Denis Kuznetsov]]></title><description><![CDATA[Как стать тем, кем хочется быть]]></description><link>https://deeonis.ru</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 04 Jul 2021 12:55:19 GMT</lastBuildDate><item><title><![CDATA[About Me]]></title><description><![CDATA[Привет, я Денис 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Denis Kuznetsov]]></title><description><![CDATA[Как стать тем, кем хочется быть]]></description><link>https://deeonis.ru</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 04 Jul 2021 13:03:32 GMT</lastBuildDate><item><title><![CDATA[About Me]]></title><description><![CDATA[Привет, я Денис 
 Канал в телеграме.]]></description><link>https://deeonis.ru/about/</link><guid isPermaLink="false">https://deeonis.ru/about/</guid><content:encoded>&lt;h1&gt;Привет, я Денис&lt;/h1&gt;
 &lt;p&gt;&lt;br&gt;&lt;br&gt;
 &lt;a href=&quot;https://t.me/onmondays&quot;&gt;Канал в телеграме&lt;/a&gt;.
@@ -11,8 +11,8 @@
 &lt;p&gt;Как и гены, мемы содержат все знания как вызывать собственную репликацию. В случае генов, эти знания закодированы в наших цепочках ДНК, в случае мемов — они запоминаются мозгом. В обоих случаях знание приспособлено к тому, чтобы начать воспроизводить себя само.&lt;/p&gt;
 &lt;p&gt;Несмотря на то, что верхнеуровнево процессы очень похожи, с точки зрения логики механизм копирования у генов и у мемов отличается&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;при половом размножении передаются только случайным образом отобранные гены, либо не передаются никакие, в случае смерти человека до рождения детей (чем-то похоже на несмешной анекдот). Репликатор генов существует только в виде цепочки ДНК.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;li&gt;
+&lt;p&gt;при половом размножении передаются только случайным образом отобранные гены, либо не передаются никакие, в случае смерти человека до рождения детей (чем-то похоже на несмешной анекдот). Репликатор генов существует только в виде цепочки ДНК.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 600px; &quot;
@@ -41,10 +41,10 @@
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;мемы же выражаются в виде поведения при каждой своей репликации. Их распространение осуществляется только за счет поведения (потому что получатель не может представить как именно мем выглядит в голове носителя). Если он не воспроизвелся — он не будет скопирован.&lt;/li&gt;
-&lt;/ul&gt;
+    &lt;/span&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;мемы же выражаются в виде поведения при каждой своей репликации. Их распространение осуществляется только за счет поведения (потому что получатель не может представить как именно мем выглядит в голове носителя). Если он не воспроизвелся — он не будет скопирован.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 600px; &quot;
@@ -73,13 +73,15 @@
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Ну а мы с вами, получается, отличный инструмент для того, чтобы гены, идеи и знания могли передаваться во времени как можно дольше. И, если пойти еще дальше, наши тела — это просто способ передачи генов в пространстве и времени.&lt;/p&gt;
-&lt;p&gt;Биологическая эволюция, в рамках которой простейшие организмы умудрились как-то преобразоваться в сложные, была лишь вступлением к основному повествованию эволюции — неограниченной эволюции мемов. &lt;/p&gt;
+    &lt;/span&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ну а мы с вами, получается, отличный инструмент для того, чтобы гены, идеи и знания могли передаваться во времени как можно дольше. И, если пойти еще дальше, наши тела, да и мы сами — это просто способ передачи эволюционирующей информации в пространстве и времени. &lt;/p&gt;
+&lt;p&gt;Биологическая эволюция, в рамках которой простейшие организмы умудрились как-то преобразоваться в сложные, была лишь вступлением к основному повествованию эволюции — неограниченной эволюции мемов. &lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Если вам интересно такое — рекомендую читать &lt;a href=&quot;https://www.ozon.ru/product/nachalo-beskonechnosti-obyasneniya-kotorye-menyayut-mir-doych-devid-226982102/?asb=tz6%252FRgzijau19v%252Fas3RcGJ%252BRxqSSt8AT8%252BBbkSj3zAs%253D&amp;#x26;asb2=NtqKmJ30oVBGNbC_qNtMwRBGjZgaa_Mpt0Ug9rkjSZI&amp;#x26;keywords=%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%BE+%D0%B1%D0%B5%D1%81%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D0%BE%D1%81%D1%82%D0%B8&quot;&gt;Начало бесконечности&lt;/a&gt;, несмотря на довольно сложный язык. Ставлю ей 5 баллов из 5.&lt;/p&gt;
+&lt;p&gt;Если вам интересно такое — рекомендую читать &lt;a href=&quot;https://www.ozon.ru/product/nachalo-beskonechnosti-obyasneniya-kotorye-menyayut-mir-doych-devid-226982102/?asb=tz6%252FRgzijau19v%252Fas3RcGJ%252BRxqSSt8AT8%252BBbkSj3zAs%253D&amp;#x26;asb2=NtqKmJ30oVBGNbC_qNtMwRBGjZgaa_Mpt0Ug9rkjSZI&amp;#x26;keywords=%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%BE+%D0%B1%D0%B5%D1%81%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D0%BE%D1%81%D1%82%D0%B8&quot;&gt;Начало бесконечности&lt;/a&gt;, несмотря на довольно сложный язык. Ставлю ей 5 баллов из 5.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Ну и чтобы составить впечатление кто такой Дэвид Дойч, можно посмотреть его видео на TED (он крутой).&lt;/p&gt;
+&lt;p&gt;Ну и чтобы составить впечатление кто такой Дэвид Дойч, можно посмотреть его видео на TED (он крутой).&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/n8BWwZUvZtQ&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Ментальные модели. Что это такое и как работает]]></title><description><![CDATA[Что такое ментальные модели Инженер и психотерапевт по-разному смотрят на решение одной и той же задачи. Первый, скорее всего, мыслит в…]]></description><link>https://deeonis.ru/blog/mental-models/</link><guid isPermaLink="false">https://deeonis.ru/blog/mental-models/</guid><pubDate>Sun, 06 Jun 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Что такое ментальные модели&lt;/h2&gt;
 &lt;p&gt;Инженер и психотерапевт по-разному смотрят на решение одной и той же задачи. Первый, скорее всего, мыслит в парадигме систем. Второй — в терминах человеческих установок и побуждений. Каждый день мы используем наработанные в прошлом модели для того, чтобы интерпретировать происходящее вокруг и реагировать наиболее оптимальным из имеющихся в арсенале способом.&lt;/p&gt;
 &lt;br&gt;
