@@ -32,10 +32,6 @@ const Header = () => {
           <HeaderNavListItem>
             <Link to="/about">Обо мне</Link>
           </HeaderNavListItem>
-
-          <HeaderNavListItem>
-            <Link to="/contact">Связаться</Link>
-          </HeaderNavListItem>
         </HeaderNavList>
       </HeaderWrapper>
     </StyledHeader>
