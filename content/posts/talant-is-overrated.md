@@ -3,7 +3,7 @@ title: Талант переоценён
 date: 2021-11-08 00:48
 tags:
   - self-development
-social_image: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c6f706b7-50b9-48b0-a6ca-5e943a9dee40/Untitled.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20211107%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211107T215154Z&X-Amz-Expires=86400&X-Amz-Signature=3cf0c927106f086f08e686698d6f70d9cdac7607a8099f3752e8851fbdebe26e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.jpeg%22
+social_image: /media/68747470733a2f2f73332e75732d776573742d322e616d617a6f6e6177732e636f6d2f7365637572652e6e6f74696f6e2d7374617469632e636f6d2f63366637303662372d353062392d343862302d613663612d3565393433613964656534302f556e7469746c65642e6a7065673f582d416d7a2d416c676f726974.jpeg
 description: Раньше я думал, что у некоторых ребят есть какой-то особый талант,
   и если кому-то суждено быть хорошим плотником/программистом/пианистом – то,
   попав в нужную среду и профессию, человек будет показывать результаты на
