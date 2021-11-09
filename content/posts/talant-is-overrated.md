@@ -34,7 +34,7 @@ description: Раньше я думал, что у некоторых ребят
 
 Круг комфорта — чистый кайф, но сидение в нем ни к чему не приводит. Двигаясь вперед, мы испытываем настоящий стресс и челлендж, но неотвратимо становимся лучше, да еще и раздвигаем собственную зону комфорта.
 
-![Learning cycle — то место, где нужно оказываться для прогресса](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c6f706b7-50b9-48b0-a6ca-5e943a9dee40/Untitled.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20211107%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211107T215154Z&X-Amz-Expires=86400&X-Amz-Signature=3cf0c927106f086f08e686698d6f70d9cdac7607a8099f3752e8851fbdebe26e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.jpeg%22)
+![Learning cycle — то место, где нужно оказываться для прогресса](/media/circles.jpg)
 
 Условия, которым должна соответствовать такая преднамеренная практика
 
