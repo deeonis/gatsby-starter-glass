@@ -34,7 +34,7 @@ const Header = () => {
           </HeaderNavListItem>
 
           <HeaderNavListItem>
-            <Link to="https://www.notion.so/deeonis/Books-I-have-read-ea8b6085c54942db8daca01789af1379">Книги</Link>
+            <Link to="https://deeonis.notion.site/e9956e686cf24e458ba46c58aed92ddd?v=4f2393834015409cbd03379102addd81">Книги</Link>
           </HeaderNavListItem>
         </HeaderNavList>
       </HeaderWrapper>
