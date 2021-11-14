@@ -4,7 +4,7 @@ date: 2021-11-15 01:26
 tags:
   - quantum theory
   - books
-social_image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Double-slit.svg/1024px-Double-slit.svg.png
+social_image: /media/quant.jpeg
 description: Случайно прочитал несколько интерпретаций того, как работают
   квантовые компьютеры. Кратко делюсь той, которую описывает Дэвид Дойч в книге
   «Структура реальности». Она нравится мне больше всего.
