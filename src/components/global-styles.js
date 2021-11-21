@@ -164,6 +164,11 @@ p, li {
 }
 
 
+section#isso-thread {
+    margin-top: 2rem;
+}
+
+
 `;
 
 export default GlobalStyle;
