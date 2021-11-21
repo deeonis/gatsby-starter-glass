@@ -3,6 +3,18 @@ import { Link, graphql } from 'gatsby';
 import Layout from '../components/layout';
 import styled from 'styled-components';
 import Tags from '../components/tags';
+import useImportScript from '../components/importScript';
+
+const Isso = props => {
+  const issoHost = 'https://isso.deeonis.ru/';
+
+  useImportScript({
+    resourceUrl: `${issoHost}js/embed.min.js`,
+    attrs: {'data-isso': issoHost }
+  });
+
+  return <section id="isso-thread"></section>
+}
 
 const PostTemplate = ({ data }) => {
   const { frontmatter, excerpt, html, fields } = data.markdownRemark;
@@ -41,6 +53,7 @@ const PostTemplate = ({ data }) => {
           )}
         </PostPagination>
         <Tags tags={frontmatter.tags} />
+        <Isso/>
       </PostWrapper>
     </Layout>
   );
