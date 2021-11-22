@@ -10,7 +10,9 @@ const Isso = props => {
 
   useImportScript({
     resourceUrl: `${issoHost}js/embed.min.js`,
-    attrs: {'data-isso': issoHost }
+    attrs: {'data-isso': issoHost,
+            'data-isso-require-author': true
+          }
   });
 
   return <section id="isso-thread"></section>
