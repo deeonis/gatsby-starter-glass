@@ -168,6 +168,9 @@ section#isso-thread {
     margin-top: 2rem;
 }
 
+p.input-wrapper {
+    font-size: 10px;
+}
 
 `;
 
