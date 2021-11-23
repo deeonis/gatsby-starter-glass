@@ -46,4 +46,4 @@ description: Полноценной стабильности, к которой 
 
 Конечно, если мясник в этот раз не поймал именно вас.
 
-*Книги: The Black Swan: The Impact of the Highly Improbable, Taleb Nassim*
+*Книги: [The Black Swan: The Impact of the Highly Improbable, Taleb Nassim](https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X/ref=sr_1_1?crid=2V21LZUZ0MEMW&keywords=black+swan+book&qid=1637698839&sprefix=black+swan%2Caps%2C306&sr=8-1)*
