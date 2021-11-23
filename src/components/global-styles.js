@@ -172,6 +172,10 @@ p.input-wrapper {
     font-size: 10px;
 }
 
+.p.post-action {
+    font: inherit;
+}
+
 .post-action input[type="submit"] {
   font-size: 15px;
   background-color: rgba(255, 255, 255, 0.3) !important;
@@ -186,7 +190,8 @@ p.input-wrapper {
 }
 
 .post-action input {
-  font-size: 15px;
+  font-size: 15px !important;
+  font: inherit;
   background-color: rgba(255, 255, 255, 0.3) !important;
   backdrop-filter: blur(10px) !important;
   border-radius: 8px !important;
