@@ -1,5 +1,5 @@
 ---
-title: Талант переоценён
+title: Талант ни при чём
 date: 2021-11-08 00:48
 tags:
   - self-development
