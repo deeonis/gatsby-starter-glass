@@ -174,12 +174,29 @@ p.input-wrapper {
 
 .post-action input[type="submit"] {
   font-size: 15px;
+  background-color: rgba(255, 255, 255, 0.3) !important;
+  backdrop-filter: blur(10px) !important;
+  border-radius: 8px !important;
+  border: 1px solid rgba(255, 255, 255, 0.5) !important;
+  padding: 0.4rem 0.4rem 0.4rem 0.4rem !important;
+}
+
+.post-action input[type="submit"]:hover {
+  background-color: rgba(255, 255, 255, 0.5) !important;
 }
 
 .post-action input {
   font-size: 15px;
+  background-color: rgba(255, 255, 255, 0.3) !important;
+  backdrop-filter: blur(10px) !important;
+  border-radius: 8px !important;
+  border: 1px solid rgba(255, 255, 255, 0.5) !important;
+  padding: 0.4rem 0.4rem 0.4rem 0.4rem !important;
 }
 
+.post-action input:hover {
+  background-color: rgba(255, 255, 255, 0.5) !important;
+}
 `;
 
 export default GlobalStyle;
