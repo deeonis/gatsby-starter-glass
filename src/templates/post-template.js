@@ -90,13 +90,13 @@ const PostContent = styled.section`
   }
 
   & > p + p {
-    margin-top: var(--size-700);
+    margin-top: var(--size-600);
   }
 
   * + h1,
   * + h2,
   * + h3 {
-    margin-top: var(--size-900);
+    margin-top: var(--size-800);
   }
 
   h1 {
