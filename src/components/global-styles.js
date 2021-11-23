@@ -172,6 +172,14 @@ p.input-wrapper {
     font-size: 10px;
 }
 
+.post-action input[type="submit"] {
+  font-size: 15px;
+}
+
+.post-action input {
+  font-size: 15px;
+}
+
 `;
 
 export default GlobalStyle;
