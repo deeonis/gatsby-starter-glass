@@ -62,7 +62,7 @@ select {
    scroll-behavior: auto;
   .post-action input[type="submit"] {
       font-size: 15px;
-      font-color: 000;
+      font-color: 000 !important;
       background-color: rgba(255, 255, 255, 0.3) !important;
       backdrop-filter: blur(10px) !important;
       border-radius: 8px !important;
@@ -76,7 +76,7 @@ select {
 
     .post-action input {
         font-size: 15px;
-        font-color: 000;
+        font-color: 000 !important;
         background-color: rgba(255, 255, 255, 0.3) !important;
         backdrop-filter: blur(10px) !important;
         border-radius: 8px !important;
