@@ -197,6 +197,18 @@ p.input-wrapper {
 .post-action input:hover {
   background-color: rgba(255, 255, 255, 0.5) !important;
 }
+
+.reply {
+  color: #000;
+}
+
+.edit {
+  color: #000;
+}
+
+.delete {
+  color: #000;
+}
 `;
 
 export default GlobalStyle;
