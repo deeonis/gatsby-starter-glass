@@ -213,6 +213,8 @@ section#isso-thread .isso-postbox .post-action input {
 
 section#isso-thread .isso-postbox .post-action input:hover {
   background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
 }
 
 .reply {
