@@ -200,30 +200,19 @@ p.input-wrapper {
     font-size: 10px;
 }
 
-.post-action input[type="submit"] {
+section#isso-thread .isso-postbox .post-action input {
   font-size: 15px;
-  background-color: rgba(255, 255, 255, 0.3) !important;
-  backdrop-filter: blur(10px) !important;
-  border-radius: 8px !important;
-  border: 1px solid rgba(255, 255, 255, 0.5) !important;
-  padding: 0.4rem 0.4rem 0.4rem 0.4rem !important;
+  color: #000;
+  background-color: rgba(255, 255, 255, 0.3);
+  backdrop-filter: blur(10px) ;
+  border-radius: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  padding: 0.4rem 0.4rem 0.4rem 0.4rem;
 }
 
-.post-action input[type="submit"]:hover {
-  background-color: rgba(255, 255, 255, 0.5) !important;
-}
 
-.post-action input {
-  font-size: 15px;
-  background-color: rgba(255, 255, 255, 0.3) !important;
-  backdrop-filter: blur(10px) !important;
-  border-radius: 8px !important;
-  border: 1px solid rgba(255, 255, 255, 0.5) !important;
-  padding: 0.4rem 0.4rem 0.4rem 0.4rem !important;
-}
-
-.post-action input:hover {
-  background-color: rgba(255, 255, 255, 0.5) !important;
+section#isso-thread .isso-postbox .post-action input:hover {
+  background-color: rgba(255, 255, 255, 0.5);
 }
 
 .reply {
