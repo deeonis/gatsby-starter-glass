@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Denis Kuznetsov]]></title><description><![CDATA[Как стать тем, кем хочется быть]]></description><link>https://deeonis.ru</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 26 Nov 2021 19:41:57 GMT</lastBuildDate><item><title><![CDATA[About Me]]></title><description><![CDATA[Привет, я Денис 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Denis Kuznetsov]]></title><description><![CDATA[Как стать тем, кем хочется быть]]></description><link>https://deeonis.ru</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 27 Nov 2021 00:05:56 GMT</lastBuildDate><item><title><![CDATA[About Me]]></title><description><![CDATA[Привет, я Денис 
 Канал в телеграме.]]></description><link>https://deeonis.ru/about/</link><guid isPermaLink="false">https://deeonis.ru/about/</guid><content:encoded>&lt;h1&gt;Привет, я Денис&lt;/h1&gt;
 &lt;p&gt;&lt;br&gt;&lt;br&gt;
 &lt;a href=&quot;https://t.me/onmondays&quot;&gt;Канал в телеграме&lt;/a&gt;.
@@ -41,7 +41,7 @@
 &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Double-slit.svg/1024px-Double-slit.svg.png&quot; alt=&quot;двухщелевый эксперимент&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Мне вряд ли стоит сейчас досконально пересказывать всю суть экспериментов, это легко ищется в поисковиках. Но итог опытов с интерференцией, как утверждает квантовая теория, заключается в том, что при определенных условиях, частицы взаимодействуют со своими партнерами из параллельных вселенных, то есть интерферируют с ними, за счёт чего меняют ожидаемое состояние в нашей реальности.&lt;/p&gt;
 &lt;p&gt;Квантовые компьютеры будут работать с учётом этого же принципа. Они как будто бы перекладывают часть решения огромных задач на такие же квантовые компьютеры, находящиеся в параллельных вселенных. То есть как будто бы сообща работают над одной и той же задачей, и «распределяют нагрузку» с помощью интерференции.&lt;/p&gt;
-&lt;h2&gt;&lt;strong&gt;Задачи какой сложности смогут решать квантовые компьютеры&lt;/strong&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;strong&gt;Какие задачи смогут решать квантовые компьютеры&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;Основной вопрос теории вычислительной сложности — какие вычисления можно практически выполнить за определённое время. Эта же теория различает задачи на легко- и труднорешаемые. &lt;/p&gt;
 &lt;p&gt;Легкорешаемой считается та задача, при применении которой к большим числам, время вычисления увеличивается не слишком резко.&lt;/p&gt;
 &lt;ul&gt;
