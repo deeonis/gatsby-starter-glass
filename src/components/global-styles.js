@@ -173,7 +173,7 @@ p.input-wrapper {
 }
 
 section#isso-thread .isso-postbox .post-action input {
-  font-size: 15px;
+  font-size: 14px;
   color: #000;
   background-color: rgba(255, 255, 255, 0.3);
   backdrop-filter: blur(10px) ;
